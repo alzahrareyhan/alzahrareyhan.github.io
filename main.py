@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("PT BENGAWAN SOLO")
-st.write("PROGRAM HITUNG GAJI KARYAWAN")
+st.title("PROGRAM HITUNG GAJI KARYAWAN")
+st.write("PT BENGAWAN SOLO")
 
 
 nama= st.text_input("Masukkan Nama",)
